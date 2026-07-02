@@ -1,8 +1,8 @@
 # void-theme.el 
 
-## Install 
-
 ![void_theme](/assets/void.png)
+
+## Install 
 
 Download `void-theme.el` to the directory `~/.emacs.d/themes/`, then add this to your `init.el`:
 
