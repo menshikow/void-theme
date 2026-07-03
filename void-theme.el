@@ -1,4 +1,4 @@
-;;; void-theme.el --- color theme
+;;; void-theme.el --- color theme  -*- lexical-binding: t; -*-
 
 ;; Author: Adrian Menschikow <github.com/menshikow>
 ;; Version: 0.1
