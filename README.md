@@ -1,6 +1,6 @@
 # void-theme.el 
 
-![void_theme](/assets/void.png)
+![void_theme](/assets/void1.png)
 
 ## Install 
 
