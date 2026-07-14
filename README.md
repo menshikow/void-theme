@@ -1,4 +1,4 @@
-# void-theme.el 
+# void-theme
 
 ![void_theme](/assets/void1.png)
 
