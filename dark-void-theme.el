@@ -2,7 +2,7 @@
 
 ;; Copyright (C) 2026
 
-;; Author: Author Name <andreydmenshikov>
+;; Author: Andrey Menshikov <andreydmenshikov@gmail.com>
 ;; Assisted-by: DeepSeek V4
 ;; Version: 0.2
 ;; Filename: dark-void-theme.el
