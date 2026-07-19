@@ -10,16 +10,6 @@ Dark and light monochrome themes for Emacs.
 
 ## Install
 
-### Via MELPA
-
-Once `void-themes` is accepted into MELPA:
-
-```lisp
-(package-install 'void-themes)
-```
-
-Then load with `M-x load-theme RET dark-void` or `M-x load-theme RET light-void`.
-
 ### Manual
 
 Download `dark-void-theme.el` and/or `light-void-theme.el` to `~/.emacs.d/themes/`, then add to `init.el`:
